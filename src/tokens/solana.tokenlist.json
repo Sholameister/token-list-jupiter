@@ -1,0 +1,21 @@
+{
+  "name": "Solana Token List",
+  "tags": {},
+  "timestamp": "2025-06-08T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "7uY8eUotGcm1oXYj8xaFiBuk5saN9QYtqervA3vK7J6U",
+      "symbol": "PFP",
+      "name": "Pay it Forward & Protect",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Sholameister/token-list-jupiter/main/assets/mainnet/7uY8eUotGcm1oXYj8xaFiBuk5saN9QYtqervA3vK7J6U/logo.png",
+      "tags": ["utility", "nonprofit", "transparency"]
+    }
+  ]
+}
