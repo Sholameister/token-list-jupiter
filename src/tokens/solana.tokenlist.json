@@ -10,11 +10,11 @@
   "tokens": [
     {
       "chainId": 101,
-      "address": "7uY8eUotGcm1oXYj8xaFiBuk5saN9QYtqervA3vK7J6U",
-      "symbol": "PFP",
-      "name": "Pay it Forward & Protect",
+      "address": "NONE",
+      "symbol": "1",
+      "name": "0",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/Sholameister/token-list-jupiter/main/assets/mainnet/7uY8eUotGcm1oXYj8xaFiBuk5saN9QYtqervA3vK7J6U/logo.png",
+      "logoURI": "1",
       "tags": ["utility", "nonprofit", "transparency"]
     }
   ]
